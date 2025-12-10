@@ -1,0 +1,9 @@
+{
+  "name": "AutoMate AI",
+  "description": "An intelligent screen assistant that analyzes your workflow to suggest and generate automation guides.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
